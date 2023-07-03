@@ -1,6 +1,7 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import ru.netology.javaqa.FreelanceServices;
+import ru.netology.services.FreelanceServices;
+
 
 public class FreelanceServicesTest {
 
